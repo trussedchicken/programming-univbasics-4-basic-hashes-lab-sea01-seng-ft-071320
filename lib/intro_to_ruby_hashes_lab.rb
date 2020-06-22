@@ -4,7 +4,7 @@ end
 
 def my_hash
   my_hash = {
-    :name => "Jeremy"
+    :name => "Jeremy",
     :age => 30
   }
 end
